@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVPBasicExample</string>
+    <string name="FirstName">First Name</string>
+    <string name="SecondName">Second Name</string>
+    <string name="Welcome">Welcome</string>
+    <string name="title_activity_arithmetic">ArithmeticActivity</string>
+    <string name="FirstNumber">First Number</string>
+    <string name="SecondNumber">Second Number</string>
+    <string name="Add">+</string>
+    <string name="Sub">-</string>
+    <string name="Mul">*</string>
+    <string name="Div">/</string>
+</resources>
